@@ -1,5 +1,5 @@
 {
-  "name": "NetDaemon add-on",
-  "url": "https://github.com/net-daemon/homeassistant-addon",
-  "maintainer": "Tomas Hellström (@helto4real) <tomas@joysoftware.xyz>"
+  "name": "SWTPL - NetDaemon add-on",
+  "url": "https://github.com/6773939989/homeassistant-addon",
+  "maintainer": "SWTPL <svc@sweetplace.me>"
 }
